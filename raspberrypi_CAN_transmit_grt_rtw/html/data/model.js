@@ -1,0 +1,1 @@
+var modelInfo = {model:"raspberrypi_CAN_transmit"};var modelHierarchy=[{model:"raspberrypi_CAN_transmit",relativePath:"_internal.html",parent:"null"},];
